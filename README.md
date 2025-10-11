@@ -48,8 +48,8 @@ https://matsuridayo.github.io
 
 ## Supported Subscription Format
 
-*  (如 Shadowsocks, ClashMeta 和 v2rayN)
-* sing-box 出站
+*  ( Shadowsocks, ClashMeta)
+* sing-box 
 
 
 
@@ -58,7 +58,7 @@ https://matsuridayo.github.io
 
 Only resolving outbound, i.e. nodes, is supported. Information such as diversion rules are ignored.
 
-## 捐助 / Donate
+ Donate
 
 <details>
 
