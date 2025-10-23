@@ -6,13 +6,6 @@ sing-box / universal proxy toolchain for Android.
 
 一ing-box  Android
 
-**The Google Play version has been controlled by a third party since May 2024 and is a non-open
-source version. Please do not download it.**
-
-
-
-https://t.me/Matsuridayo
-
 ## Supported Proxy Protocols
 
 * SOCKS (4/4a/5)
