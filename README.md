@@ -54,6 +54,3 @@ XMR
 </details>
 
 
-Android GUI:
-
-- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
